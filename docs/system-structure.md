@@ -4,6 +4,8 @@
 
 Use modular monolith first (Spring Boot REST API), with clear boundaries to evolve to services if needed.
 
+For concrete package layout and function responsibilities, use `project-structure.md` as the implementation reference.
+
 ## Suggested module boundaries (package-level)
 
 - `auth`: user identity, login/session/JWT, roles.

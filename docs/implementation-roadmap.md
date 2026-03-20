@@ -1,5 +1,11 @@
 # Implementation Roadmap
 
+Use these companion docs while executing this roadmap:
+
+- `mvp-implementation-order.md` for class-by-class build sequence.
+- `api-service-repository-mapping.md` for endpoint-to-layer ownership.
+- `flyway-migration-plan.md` for schema rollout order.
+
 ## Phase 0 - Foundation
 
 - Clean up `pom.xml` dependency set (use standard test starter).

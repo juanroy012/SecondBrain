@@ -6,12 +6,16 @@ This folder contains the product and technical blueprint for the first implement
 
 1. `product-vision.md`
 2. `system-structure.md`
-3. `domain-model.md`
-4. `api-design.md`
-5. `tech-stack-options.md`
-6. `dependency-catalog.md`
-7. `configuration-guide.md`
-8. `implementation-roadmap.md`
+3. `project-structure.md`
+4. `mvp-implementation-order.md`
+5. `api-design.md`
+6. `api-service-repository-mapping.md`
+7. `domain-model.md`
+8. `flyway-migration-plan.md`
+9. `tech-stack-options.md`
+10. `dependency-catalog.md`
+11. `configuration-guide.md`
+12. `implementation-roadmap.md`
 
 ## Scope of this docs phase
 
